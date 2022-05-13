@@ -1,0 +1,236 @@
+ 
+
+Warrior Shield:
+Emergency Warning System for Texas A&M University-Central Texas 
+Warrior Shield is an emergency notification service that gives Texas A&M University-Central 
+Texas the ability to communicate health and safety emergency information quickly via email, 
+text message, and social media. All students are automatically enrolled in Warrior Shield 
+through their myCT email account.
+
+Connect to Warrior Shield by 911Cellular [https://portal.publicsafetycloud.net/Account/Login] 
+to change where you receive your alerts or to opt out.  By staying enrolled in Warrior Shield, 
+university officials can quickly pass on safety-related information, regardless of your location. 
+
+COURSE INFORMATION
+Course Objective:
+Student Learning Outcomes:
+COSC 3351. Data Structures. 3 Credit Hours.
+Examine theory and application of commonly used computer data structures, files, file 
+organization and access methods, databases, and other storage and retrieval methods. 
+Prerequisite(s): A programming course in C/C++, Visual Basic, Java, or permission of 
+department chair.
+Required Reading and Textbook(s):
+“Data Structures and Algorithms in Java LaFore. 
+ 
+COURSE REQUIREMENTS
+Course Requirements: (include point values for each- not just a percentage)
+
+
+
+
+Grading Criteria Rubric and Conversion 
+There will be 7 programming assignments worth 100 points each and one exam worth 30 
+point.
+
+
+
+
+
+
+TECHNOLOGY REQUIREMENTS AND SUPPORT
+You need to include information about Technology Requirements and Support. In addition, 
+include a statement on the technology requirements for the successful completion of the course 
+and when applicable, information on how to access these resources (for example, how to obtain 
+a certain software through University site license).   
+Technology Requirements 
+This course will use the A&M-Central Texas Instructure Canvas learning management system.
+Logon to A&M-Central Texas Canvas [https://tamuct.instructure.com/] or access Canvas 
+through the TAMUCT Online link in myCT [https://tamuct.onecampus.com/].  You will log in 
+through our Microsoft portal.
+Username: Your MyCT email address. Password: Your MyCT password
+
+Canvas Support
+Use the Canvas Help link, located at the bottom of the left-hand menu, for issues with 
+Canvas.  You can select “Chat with Canvas Support,” submit a support request through “Report 
+a Problem,” or call the Canvas support line: 1-844-757-0953. 
+For issues related to course content and requirements, contact your instructor.
+
+Other Technology Support
+For log-in problems, students should contact Help Desk Central. 
+24 hours a day, 7 days a week:
+Email: helpdesk@tamu.edu
+Phone: (254) 519-5466
+Web Chat: [http://hdc.tamu.edu]
+Please let the support technician know you are an A&M-Central Texas student.
+ 
+UNIVERSITY RESOURCES, PROCEDURES, AND GUIDELINES
+
+Drop Policy.
+If you discover that you need to drop this class, you must complete a Drop Request Form
+[https://www.tamuct.edu/registrar/docs/Drop_Request_Form.pdf].
+
+Professors cannot drop students; this is always the responsibility of the student. The Registrar’s 
+Office will provide a deadline on the Academic Calendar for which the form must be completed, 
+signed and returned. Once you return the signed form to the Registrar’s Office, you must go 
+into Warrior Web and confirm that you are no longer enrolled. If you still show as enrolled, 
+FOLLOW-UP with the Registrar’s Office immediately. You are to attend class until the procedure 
+is complete to avoid penalty for absence. Should you miss the drop deadline or fail to follow the 
+procedure, you will receive an F in the course, which may affect your financial aid and/or VA 
+educational benefits. 
+
+Academic Integrity. 
+Texas A&M University -Central Texas values the integrity of the academic enterprise and strives 
+for the highest standards of academic conduct. A&M-Central Texas expects its students, faculty, 
+and staff to support the adherence to high standards of personal and scholarly conduct to 
+preserve the honor and integrity of the creative community. Academic integrity is defined as a 
+commitment to honesty, trust, fairness, respect, and responsibility. Any deviation by students 
+from this expectation may result in a failing grade for the assignment and potentially a failing 
+grade for the course. Academic misconduct is any act that improperly affects a true and honest 
+evaluation of a student’s academic performance and includes, but is not limited to, cheating on 
+an examination or other academic work, plagiarism and improper citation of sources, using 
+another student’s work, collusion, and the abuse of resource materials. All academic 
+misconduct concerns will be reported to the university’s Office of Student Conduct. Ignorance 
+of the university’s standards and expectations is never an excuse to act with a lack of integrity. 
+When in doubt on collaboration, citation, or any issue, please contact your instructor before 
+taking a course of action. 
+
+For more information regarding the Student Conduct process, 
+[https://www.tamuct.edu/student-affairs/student-conduct.html].
+If you know of potential honor violations by other students, you may submit a report, 
+[https://cm.maxient.com/reportingform.php?TAMUCentralTexas&layout_id=0].
+
+Academic Accommodations. 
+At Texas A&M University-Central Texas, we value an inclusive learning environment where 
+every student has an equal chance to succeed and has the right to a barrier-free education. The 
+Office of Access and Inclusion is responsible for ensuring that students with a disability receive 
+equal access to the university’s programs, services and activities. If you believe you have a 
+disability requiring reasonable accommodations please contact the Office of Access and 
+Inclusion, WH-212; or call (254) 501-5836. Any information you provide is private and 
+confidential and will be treated as such.
+
+For more information please visit our Access & Inclusion Canvas page (log-in required) 
+[https://tamuct.instructure.com/courses/717]
+
+Important information for Pregnant and/or Parenting Students. 
+Texas A&M University-Central Texas supports students who are pregnant and/or parenting. In 
+accordance with requirements of Title IX and related guidance from US Department of 
+Education’s Office of Civil Rights, the Dean of Student Affairs’ Office can assist students who are 
+pregnant and/or parenting in seeking accommodations related to pregnancy and/or parenting. 
+Students should seek out assistance as early in the pregnancy as possible. For more 
+information, please visit Student Affairs [https://www.tamuct.edu/student-affairs/index.html]. 
+Students may also contact the institution’s Title IX Coordinator. If you would like to read more 
+about these requirements and guidelines online, please visit the website 
+[http://www2.ed.gov/about/offices/list/ocr/docs/pregnancy.pdf]. 
+
+Title IX of the Education Amendments Act of 1972 prohibits discrimination on the basis of sex 
+and gender–including pregnancy, parenting, and all related conditions. A&M-Central Texas is 
+able to provide flexible and individualized reasonable accommodation to pregnant and 
+parenting students. All pregnant and parenting students should contact the Associate Dean in 
+the Division of Student Affairs at (254) 501-5909 to seek out assistance. Students may also 
+contact the University’s Title IX Coordinator. 
+
+Tutoring. 
+Tutoring is available to all A&M-Central Texas students, both on-campus and online. 
+Subjects tutored on campus include Accounting, Advanced Math, Biology, Finance, 
+Statistics, Mathematics, and Study Skills. Tutors are available at the Tutoring Center in Warrior 
+Hall, Suite 111. Tutor.com tutoring will not offer writing support beginning August 1, 2019. 
+If you have a question regarding tutor schedules, need to schedule a tutoring session, 
+are interested in becoming a tutor, or have any other question, contact Academic 
+Support Programs at (254) 519-5796, or by emailing Dr. DeEadra Albert-Green 
+at deeadra.albertgreen@tamuct.edu.
+Chat live with a tutor 24/7 for almost any subject from on your computer! Tutor.com is 
+an online tutoring platform that enables A&M-Central Texas students to log in and receive 
+online tutoring support at no additional cost. This tool provides tutoring in over 40 subject 
+areas. Access Tutor.com through Canvas.
+
+University Writing Center. 
+Located in Warrior Hall 416, the University Writing Center (UWC) at Texas A&M University–
+Central Texas (TAMUCT) is a free workspace open to all TAMUCT students from 10:00 a.m.-5:00 
+p.m. Monday thru Thursday with satellite hours in the University Library Monday thru Thursday 
+from 6:00-9:00 p.m. This semester, the UWC is also offering online only hours from 12:00-3:00 
+p.m. on Saturdays.
+Tutors are prepared to help writers of all levels and abilities at any stage of the writing process. 
+While tutors will not write, edit, or grade papers, they will assist students in developing more 
+effective composing practices. By providing a practice audience for students’ ideas and writing, 
+our tutors highlight the ways in which they read and interpret students’ texts, offering guidance 
+and support throughout the various stages of the writing process. In addition, students may 
+work independently in the UWC by checking out a laptop that runs the Microsoft Office suite 
+and connects to WIFI, or by consulting our resources on writing, including all of the relevant 
+style guides. Whether you need help brainstorming ideas, organizing an essay, proofreading, 
+understanding proper citation practices, or just want a quiet place to work, the UWC is here to 
+help!
+Students may arrange a one-to-one session with a trained and experienced writing tutor by 
+visiting the UWC during normal operating hours (both half-hour and hour sessions are 
+available) or by making an appointment via WCOnline  [https://tamuct.mywconline.com/]. In 
+addition, you can email Dr. Bruce Bowles Jr. at bruce.bowles@tamuct.edu if you have any 
+questions about the UWC and/or need any assistance with scheduling. 
+University Library. 
+The University Library provides many services in support of research across campus and at a 
+distance. We offer over 200 electronic databases containing approximately 250,000 eBooks and 
+82,000 journals, in addition to the 85,000 items in our print collection, which can be mailed to 
+students who live more than 50 miles from campus. Research guides for each subject taught at 
+A&M-Central Texas are available through our website to help students navigate these 
+resources. On campus, the library offers technology including cameras, laptops, microphones, 
+webcams, and digital sound recorders. 
+
+Research assistance from a librarian is also available 24 hours a day through our online chat 
+service, and at the reference desk when the library is open. Research sessions can be scheduled 
+for more comprehensive assistance, and may take place on Skype or in-person at the library. 
+Assistance may cover many topics, including how to find articles in peer-reviewed journals, how 
+to cite resources, and how to piece together research for written assignments. 
+
+Our 27,000-square-foot facility on the A&M-Central Texas main campus includes student 
+lounges, private study rooms, group work spaces, computer labs, family areas suitable for all 
+ages, and many other features. Services such as interlibrary loan, TexShare, binding, and 
+laminating are available. The library frequently offers workshops, tours, readings, and other 
+events. For more information, please visit our Library website 
+[http://tamuct.libguides.com/index]. 
+ 
+
+OPTIONAL POLICY STATEMENTS:
+A Note about Sexual Violence at A&M-Central Texas 
+Sexual violence is a serious safety, social justice, and public health issue. The university offers 
+support for anyone struggling with these issues. University faculty are mandated reporters, so if 
+someone discloses that they were sexually assaulted (or a victim of Domestic/Dating Violence 
+or Stalking) while a student at TAMUCT, faculty members are required to inform the Title IX 
+Office. If you want to discuss any of these issues confidentially, you can do so through Student 
+Counseling (254-501-5955) located on the second floor of Warrior Hall (207L).
+
+Sexual violence can occur on our campus because predators often feel emboldened, and 
+victims often feel silenced or shamed. It is incumbent on ALL of us to find ways to actively 
+create environments that tell predators we don’t agree with their behaviors and tell survivors 
+we will support them. Your actions matter. Don’t be a bystander; be an agent of change. For 
+additional information on campus policy and resources visit the Title IX webpage 
+[https://www.tamuct.edu/departments/compliance/titleix.php].
+
+Behavioral Intervention
+Texas A&M University-Central Texas cares about the safety, health, and well-being of its 
+students, faculty, staff, and community. If you are aware of individuals for whom you have a 
+concern, who are exhibiting behaviors that pose a threat to safety, or individuals causing a 
+significant disruption to our community, please make a referral to the Behavioral Intervention 
+Team. You can complete the referral online 
+[https://cm.maxient.com/reportingform.php?TAMUCentralTexas&layout_id=2]. 
+
+Anonymous referrals are accepted. Please see the Behavioral Intervention Team website for 
+more information [https://www.tamuct.edu/student-affairs/bat.html]. If a person’s behavior 
+poses an imminent threat to you or another, contact 911 or A&M-Central Texas University 
+Police at 254-501-5800.
+ 
+
+INSTRUCTOR POLICIES. 
+No late work will be accepted.    
+Do not copy another students program and claim it as your own work Dr. Woodcock reserves 
+the right to change this syllabus at any time.
+
+Copyright Notice.
+Students should assume that all course material is copyrighted by the respective 
+author(s). Reproduction of course material is prohibited without consent by the author 
+and/or course instructor. Violation of copyright is against the law and Texas A&M 
+University-Central Texas’ Code of Academic Honesty. All alleged violations will be 
+reported to the Office of Student Con Copyright. (2019) by (Dr. Timothy Woodcock) at 
+Texas A&M University-Central Texas, (Business); 1001 Leadership Place, Killeen, TX 
+76549; FACULTY Phone 254- 519-5783; Woodcocktg@tamuct.eduduct. 
+		
+
+1
+
